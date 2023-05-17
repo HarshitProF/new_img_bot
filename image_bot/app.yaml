@@ -1,0 +1,6 @@
+runtime: python
+env: flex
+entrypoint: python -m bot
+runtime_config :
+    operating_system: "ubuntu18"
+    runtime : 3.10.9
